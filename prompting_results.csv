@@ -1,0 +1,14 @@
+Experiment,Prompt/Config,Accuracy,F1 (macro),Undefined (%)
+Base model,completion_ru,0.75,0.46478270177692144,0.0
+Instruct (no sys),simple_ru,0.735,0.5007300645282842,0.0
+Instruct (with sys),strict_ru,0.72,0.49192524042823443,0.0
+Instruct (no sys),detailed_ru,0.71,0.5289148797920727,0.0
+Instruct (with sys),expert_en,0.71,0.5191510528933843,0.0
+Instruct (no sys),cot_ru,0.705,0.44420893975790116,18.5
+Instruct (no sys),detailed_en,0.7,0.502570054717294,0.0
+Instruct (with sys),native_speaker_ru,0.7,0.502570054717294,0.0
+Instruct (with sys),expert_ru,0.685,0.5294117647058824,0.0
+Instruct (no sys),cot_en,0.66,0.42411924119241196,12.5
+Instruct (no sys),simple_en,0.655,0.5014270746775533,0.0
+Base model,completion_en,0.605,0.4697808651297023,0.0
+Base model,fewshot_ru,0.51,0.43704044117647056,0.0

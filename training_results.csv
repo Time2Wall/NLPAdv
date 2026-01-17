@@ -1,0 +1,3 @@
+Model,Parameters,Epochs,Time per Step (s),Total Time (min),Test Accuracy
+ruT5-base,"222,903,552",7.0,0.486,13.71,0.9113
+mt5-small,"300,176,768",4.0,0.262,4.23,0.1679
